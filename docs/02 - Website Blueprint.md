@@ -45,3 +45,76 @@ The objective is to create a website that presents CompareBuddy as a premium des
 
 - 404 Page
 - Thank You Page
+# Home Page Blueprint
+
+## Objective
+
+The Home page should immediately communicate that CompareBuddy is a premium desktop software solution built specifically for South African short-term insurance brokers.
+
+The page should create confidence, demonstrate professionalism, explain the value of the software, and encourage visitors to book a demonstration.
+
+---
+
+## Page Structure
+
+### 1. Hero Section
+
+Purpose:
+Introduce CompareBuddy with a strong headline, short supporting text, a product image, and a clear call-to-action.
+
+Primary Call-to-Action:
+Book a Demo
+
+Secondary Call-to-Action:
+Learn More
+
+---
+
+### 2. Trusted Solution
+
+Purpose:
+Quickly establish credibility by highlighting professionalism, local focus, privacy, and software quality.
+
+---
+
+### 3. Why CompareBuddy
+
+Purpose:
+Explain the problems brokers face and how CompareBuddy simplifies policy comparisons and report generation.
+
+---
+
+### 4. Key Features
+
+Purpose:
+Introduce the software's most important capabilities without overwhelming the visitor.
+
+---
+
+### 5. How It Works
+
+Purpose:
+Show the simple workflow from importing policy documents to producing professional comparison reports.
+
+---
+
+### 6. Security
+
+Purpose:
+Explain how CompareBuddy protects client information through local document processing and privacy-first design.
+
+---
+
+### 7. Call to Action
+
+Purpose:
+Invite visitors to schedule a personalised demonstration.
+
+---
+
+### 8. Footer
+
+Purpose:
+Provide navigation, legal links, contact information, and company branding.
+
+Add Home page blueprint
