@@ -118,3 +118,40 @@ Purpose:
 Provide navigation, legal links, contact information, and company branding.
 
 Add Home page blueprint
+
+
+### 1. Hero Section
+
+**Purpose**
+
+Immediately communicate what CompareBuddy does, who it is for, and encourage visitors to start a free trial.
+
+**Audience**
+
+South African short-term insurance brokers.
+
+**Eyebrow Text**
+
+Designed for South African Short-Term Insurance Brokers
+
+**Headline**
+
+Smarter Policy Comparisons. Professional Client Reports.
+
+**Supporting Text**
+
+CompareBuddy helps South African short-term insurance brokers compare policy documents faster, identify meaningful differences, and generate clear, professional reports that support informed client discussions.
+
+**Primary Call-to-Action**
+
+🟢 Start Your Free 14-Day Trial
+
+*No credit card required. Full access. Use your own policy documents.*
+
+**Secondary Call-to-Action**
+
+▶ Watch a 2-Minute Product Tour
+
+**Visual**
+
+A professional screenshot of CompareBuddy with Buddy positioned subtly beside the interface, reinforcing guidance without distracting from the software.
