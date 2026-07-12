@@ -9,7 +9,24 @@ Website: comparebuddy.co.za
 Status: Draft
 
 ---
+## Design Philosophy
 
+CompareBuddy should present itself as a premium software company that earns trust through clarity, professionalism, and attention to detail.
+
+Every design decision should support one or more of the following principles:
+
+- Professional before impressive.
+- Clear before clever.
+- Simple before complex.
+- Helpful before promotional.
+- Consistent before trendy.
+- Trust is earned through quality.
+
+Before approving any page, image, or feature, ask:
+
+**Would a premium software company proudly publish this?**
+
+----------------------------------------
 ## Purpose
 
 This document defines the official brand standards for CompareBuddy.
