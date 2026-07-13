@@ -401,3 +401,197 @@ Strong CTAs without being pushy	✓
 Minimal visual clutter	✓
 Responsive by design	✓
 One structural refinement
+
+
+Homepage Design Decisions (Approved)
+
+This section records all homepage design decisions that have been reviewed and approved after the initial Homepage Master Design was created.
+
+These decisions form part of the official CompareBuddy website specification.
+
+1. Design Philosophy
+
+The CompareBuddy homepage must present the software as a premium commercial software product.
+
+The design should feel comparable to companies such as Microsoft, Adobe, Atlassian and Notion.
+
+The homepage should communicate professionalism, trust, simplicity and quality.
+
+The objective is to educate visitors first and sell second.
+
+2. Primary Objective
+
+The homepage exists to:
+
+Explain what CompareBuddy does.
+Demonstrate its value to South African short-term insurance brokers.
+Build trust.
+Encourage visitors to either start a free trial or subscribe to a suitable plan.
+3. Subscription Model
+
+CompareBuddy will be offered as a subscription-based software product.
+
+Supported billing options:
+
+Monthly Subscription
+Annual Subscription
+
+Annual subscriptions should clearly display the savings compared to monthly billing.
+
+4. Plans & Pricing
+
+The homepage will contain a dedicated Plans & Pricing section.
+
+Visitors should be able to switch between:
+
+Monthly | Annual (Save 15%)
+
+The pricing cards update based on the selected billing period.
+
+The pricing structure currently includes:
+
+14-Day Free Trial
+R0
+Full functionality
+No credit card required
+Use your own policy documents
+Email support
+
+Action
+
+Start Free Trial
+
+Single User
+
+Ideal for individual brokers.
+
+Includes:
+
+One licensed user
+Unlimited policy comparisons
+Professional client reports
+Software updates
+Email support
+
+Action
+
+Subscribe Now
+
+Team Licence
+
+Designed for brokerages with multiple users.
+
+Supports:
+
+2–5 users
+Shared licence management
+Unlimited comparisons
+Priority support
+Software updates
+
+Action
+
+View Plans
+
+Enterprise
+
+Custom pricing.
+
+Designed for:
+
+Larger brokerages
+Multiple branches
+Corporate groups
+
+Action
+
+Contact Sales
+
+5. Call-to-Action Strategy
+
+To avoid overwhelming visitors, the homepage should use a limited number of primary calls-to-action.
+
+Primary trial buttons appear only in:
+
+Navigation
+Hero section
+Plans & Pricing section
+
+All other sections should encourage visitors to continue exploring the website.
+
+Examples include:
+
+Learn More
+Explore Features
+View Sample Report
+See How It Works
+6. Navigation
+
+Approved navigation structure:
+
+Features
+How It Works
+Plans & Pricing
+FAQ
+Contact
+
+Primary navigation button:
+
+Start Free Trial
+
+7. Homepage User Journey
+
+Visitors should naturally progress through the following journey:
+
+Understand who CompareBuddy is for.
+Understand the problem.
+Discover the solution.
+Learn why brokers choose CompareBuddy.
+Explore the key features.
+Understand how the software works.
+View an example report.
+Meet Buddy.
+Review plans and pricing.
+Start a free trial or subscribe.
+8. Homepage Tone
+
+The homepage should never feel sales-heavy.
+
+It should educate first and invite visitors to take the next step when they are ready.
+
+The messaging should always feel:
+
+Professional
+Helpful
+Confident
+Honest
+Trustworthy
+
+Avoid exaggerated marketing language or unrealistic claims.
+
+9. Buddy Usage
+
+Buddy remains the official CompareBuddy Guide.
+
+Buddy should:
+
+Welcome visitors.
+Guide users through the website.
+Introduce important sections.
+Support onboarding.
+Never distract from the software.
+
+The official approved Buddy artwork must be used consistently throughout the website.
+
+No alternative versions or AI-generated variations may be used.
+
+10. Design Approval Rule
+
+The Homepage Master Design becomes the visual reference for the entire website.
+
+No HTML, CSS, React, or website development may begin until the homepage design has been reviewed and approved.
+
+Every future page should inherit its design language, spacing, typography, colours, and component styles from the approved homepage.
+
+
+Quality Standard: Every section, component, and interaction should be evaluated against one question: "Would a premium software company proudly publish this?" If the answer is No, the design must be refined before approval.
