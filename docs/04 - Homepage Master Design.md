@@ -187,9 +187,9 @@ One CTA
 
 Try CompareBuddy Free
 
-Why Insurance Brokers Choose CompareBuddy.
+6. Why Insurance Brokers Choose CompareBuddy.
 
-6. Key Features
+7. Key Features
 
 Grid.
 
@@ -217,7 +217,7 @@ Heading
 
 Small paragraph
 
-7. How It Works
+8. How It Works
 
 Horizontal timeline.
 
@@ -253,7 +253,7 @@ Very clean.
 
 Large spacing.
 
-8. Example Report
+9. Example Report
 
 This is an opportunity many software companies miss.
 
@@ -269,7 +269,7 @@ Short explanation.
 
 Visitors immediately understand the outcome.
 
-9. Buddy Section
+10. Buddy Section
 
 This is where Buddy becomes more than a mascot.
 
@@ -285,7 +285,7 @@ Buddy helps guide you through CompareBuddy, making it easier to compare policy w
 
 Buddy should appear confident and approachable—not cartoonish.
 
-10. Testimonials
+11. Testimonials
 
 Future section.
 
@@ -297,13 +297,13 @@ No fake testimonials.
 
 Until real testimonials exist, omit this section rather than using filler.
 
-11. FAQ Preview
+12. FAQ Preview
 
 Five questions.
 
 Link to full FAQ page.
 
-12. Final CTA
+13. Final CTA
 
 Large spacing.
 
@@ -321,7 +321,7 @@ Supporting text
 
 No credit card required.
 
-13. Footer
+14. Footer
 
 Four columns.
 
