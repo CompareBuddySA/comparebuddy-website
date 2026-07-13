@@ -67,3 +67,17 @@ If the answer is no, improve it before publishing.
 20. Writing & Content Standards
 21. Future Expansion
 22. Do's and Don'ts
+
+
+Official Buddy Artwork
+The uploaded Buddy image is the official CompareBuddy mascot and is the primary brand character for the website and marketing material.
+Buddy must remain visually consistent throughout the CompareBuddy ecosystem.
+The following characteristics are mandatory:
+Grey fur
+Green cap
+Blue gloves
+Pink nose
+One blue eye and one green eye
+Friendly smile
+Professional appearance
+AI-generated substitutions that alter Buddy's appearance are not approved.
