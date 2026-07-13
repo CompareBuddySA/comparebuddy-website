@@ -40,3 +40,16 @@ It establishes consistent rules for layouts, spacing, typography, components, co
 18. Responsive Behaviour
 19. Accessibility
 20. Design Checklist
+
+
+# Design Governance
+
+The Design System is the single source of truth for the CompareBuddy website.
+
+All colours, typography, spacing, components, icons, layouts, animations and user interface elements must follow this document.
+
+## Approval Rule
+
+Nothing may be implemented in GitHub until the design has been reviewed and approved.
+
+Design approval always comes before development.
