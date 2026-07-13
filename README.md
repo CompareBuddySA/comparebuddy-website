@@ -32,4 +32,11 @@ CompareBuddy follows a milestone-based development process.
 
 **Nothing gets built until it has been approved in the Design Milestone.**
 
+## Quality Standard
+
+Before any design, content, or feature is approved, ask:
+"Would a premium software company proudly publish this?"
+If the answer is no, it should be improved before approval.
+
+
 All implementation must follow the approved design documentation. Any design changes must be approved before development begins.
