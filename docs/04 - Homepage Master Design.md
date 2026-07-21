@@ -1,382 +1,853 @@
-Homepage Master Design
-Design Goal
+# 04 – Homepage Master Design
 
-Create a homepage that immediately communicates:
+## Document Status
 
-This is premium software.
-It is built specifically for South African insurance brokers.
-It saves time.
-It produces professional comparison reports.
-It is trustworthy.
-It is easy to start using.
+**Status:** Design Milestone – Master Design Specification  
+**Applies To:** CompareBuddy Website Homepage
 
-At no point should the design feel like a startup landing page filled with marketing clichés.
+This document defines the official structure, content direction, visual hierarchy, conversion strategy, and design requirements for the CompareBuddy homepage.
 
-It should feel closer to Microsoft, Adobe, Atlassian, or Notion.
+The homepage must align with:
 
-Homepage Flow
+- 01 – CompareBuddy Design & Brand Guide
+- 02 – Website Blueprint
+- 03 – Design System
+- 05 – UI Component Library
+- 06 – Buddy Style Guide
 
-I recommend this section order.
+The homepage is the master visual reference for the rest of the CompareBuddy website.
+
+No website development may begin until the homepage design has been reviewed and formally approved.
+
+---
+
+# 1. Homepage Design Goal
+
+The homepage must immediately communicate:
+
+- CompareBuddy is premium software.
+- It is built specifically for South African short-term insurance brokers.
+- It helps brokers compare policy documents more efficiently.
+- It helps identify meaningful differences between policies.
+- It produces professional client comparison reports.
+- It is trustworthy and professional.
+- It is easy to start using.
+- It is available as a Windows desktop application.
+
+The homepage must not feel like a generic startup landing page.
+
+It must not rely on exaggerated marketing language, empty promises, or generic AI-generated marketing copy.
+
+The overall experience should feel closer to a premium software company such as:
+
+- Microsoft
+- Adobe
+- Atlassian
+- Notion
+
+The design should feel:
+
+- Calm
+- Spacious
+- Professional
+- Modern
+- Clear
+- Trustworthy
+- Premium
+
+The primary objective is to educate visitors first and invite them to take the next step when they are ready.
+
+---
+
+# 2. Primary Homepage Objective
+
+The homepage exists to:
+
+1. Explain what CompareBuddy is.
+2. Clearly identify who it is for.
+3. Explain the problem it helps solve.
+4. Demonstrate how it helps insurance brokers.
+5. Show the professional result it produces.
+6. Explain how the software works.
+7. Present the available subscription options.
+8. Allow visitors to start a free trial or choose a subscription plan.
+
+The homepage must not feel aggressively sales-driven.
+
+The visitor should understand the product before being asked to commit.
+
+---
+
+# 3. Target Audience
+
+The primary audience is:
+
+> South African short-term insurance brokers.
+
+The homepage must speak directly to the realities of insurance brokers who work with:
+
+- Multiple policy documents.
+- Different insurers.
+- Different policy wordings.
+- Different levels of cover.
+- Different exclusions.
+- Different excesses.
+- Client comparison discussions.
+- Professional report requirements.
+
+The language must be specific and relevant to the insurance broking environment.
+
+Avoid generic software language that could apply to any industry.
+
+---
+
+# 4. Homepage User Journey
+
+The intended visitor journey is:
+
+1. Understand who CompareBuddy is for.
+2. Understand what CompareBuddy does.
+3. Recognise the problem with manual policy comparison.
+4. Discover how CompareBuddy helps.
+5. Understand why brokers choose CompareBuddy.
+6. Explore the key features.
+7. Understand how the software works.
+8. See the professional report outcome.
+9. Meet Buddy, the CompareBuddy Guide.
+10. Review subscription options.
+11. Start a free trial or subscribe.
+12. Find additional information through FAQ and Contact.
+
+The visitor should move naturally from:
+
+> Problem → Solution → Understanding → Trust → Product → Outcome → Pricing → Action
+
+---
+
+# 5. Approved Homepage Section Order
+
+The official homepage section order is:
 
 1. Sticky Navigation
-
-Very clean.
-
-Left
-
-CompareBuddy Logo
-
-Center
-
-Navigation
-
-Features
-Why CompareBuddy
-About
-FAQ
-Contact
-
-Right
-
-Outlined Button
-
-Free Trial
-
-Navigation height
-
-Approximately 80px
-
-White background
-
-Very subtle bottom border.
-
 2. Hero Section
-
-This is the most important section on the website.
-
-Large white space.
-
-Nothing cramped.
-
-Left Column
-
-Eyebrow
-
-Designed for South African Short-Term Insurance Brokers
-
-Headline
-
-Smarter Policy Comparisons.
-Professional Client Reports.
-
-Supporting paragraph
-
-Primary button
-
-Start Your Free 14-Day Trial
-
-Supporting text
-
-No credit card required.
-Full access.
-Use your own policy documents.
-
-Secondary button
-
-Watch a 2-Minute Product Tour
-
-Right Column
-
-Large illustration/mockup.
-
-Not a random stock image.
-
-Instead:
-
-Large Windows application screenshot displayed inside a modern laptop monitor.
-
-Buddy standing beside the screen.
-
-Buddy pointing toward the comparison report.
-
-This instantly tells visitors:
-
-"This is desktop software."
-
-3. Trust Bar
-
-Below Hero.
-
-Very slim.
-
-Soft grey background.
-
-Examples
-
-Trusted by South African Insurance Brokers
-
-Future space for
-
-Broker logos
-
-Industry associations
-
-Testimonials
-
-If none exist yet, use a simple statement rather than empty logo placeholders.
-
+3. Trust / Positioning Bar
 4. The Problem
-
-Large heading.
-
-Example
-
-Policy comparisons shouldn't take hours.
-
-Three clean cards.
-
-Each contains one problem.
-
-Example
-
-Reading lengthy policy wording
-
-Icon
-
-Short explanation.
-
-Missing important cover differences
-
-Icon
-
-Explanation.
-
-Producing client reports manually
-
-Icon
-
-Explanation.
-
-Very minimal.
-
 5. The Solution
-
-Large screenshot.
-
-Not decorative.
-
-Real software.
-
-Beside it:
-
-Bullet points.
-
-Example
-
-Compare wording faster
-
-Highlight important differences
-
-Professional reports
-
-Easy navigation
-
-Clear summaries
-
-One CTA
-
-Try CompareBuddy Free
-
-6. Why Insurance Brokers Choose CompareBuddy.
-
+6. Why Insurance Brokers Choose CompareBuddy
 7. Key Features
-
-Grid.
-
-Six feature cards.
-
-Examples
-
-Compare Policy Wording
-
-Generate Reports
-
-Highlight Differences
-
-Professional Layouts
-
-Designed for Brokers
-
-Windows Desktop Software
-
-Each card
-
-Simple icon
-
-Heading
-
-Small paragraph
-
 8. How It Works
+9. Example Report
+10. Meet Buddy
+11. Plans & Pricing
+12. Testimonials, only when genuine testimonials exist
+13. FAQ Preview
+14. Final CTA
+15. Footer
 
-Horizontal timeline.
+This order should not be changed without design review.
 
-Step 1
+---
 
-Download Trial
+# 6. Sticky Navigation
 
-↓
+The navigation should remain clean, compact, and professional.
 
-Step 2
+## Left
+
+CompareBuddy logo.
+
+## Centre
+
+Primary navigation:
+
+- Features
+- How It Works
+- Plans & Pricing
+- FAQ
+- Contact
+
+## Right
+
+Primary CTA:
+
+> Start Free Trial
+
+The navigation should not contain multiple competing CTA buttons.
+
+---
+
+## Navigation Design
+
+Recommended characteristics:
+
+- Approximately 80 px height on desktop.
+- White or approved primary background.
+- Very subtle bottom divider.
+- Generous horizontal spacing.
+- Clear typography.
+- Minimal visual clutter.
+
+Buddy should not normally appear in the primary navigation.
+
+The navigation should remain focused on usability and brand clarity.
+
+---
+
+# 7. Hero Section
+
+The Hero is the most important section of the homepage.
+
+It must communicate the product and its value quickly.
+
+The hero must have generous white space.
+
+It must not feel cramped or overloaded.
+
+---
+
+## 7.1 Hero Eyebrow
+
+Approved text:
+
+> Designed for South African Short-Term Insurance Brokers
+
+---
+
+## 7.2 Hero Headline
+
+Approved text:
+
+> Smarter Policy Comparisons.  
+> Professional Client Reports.
+
+The headline must be prominent and immediately communicate the two central product outcomes.
+
+---
+
+## 7.3 Hero Supporting Text
+
+Approved text:
+
+> CompareBuddy helps South African short-term insurance brokers compare policy documents faster, identify meaningful differences, and generate professional client reports that support informed client discussions.
+
+---
+
+## 7.4 Primary Hero CTA
+
+Approved text:
+
+> Start Your Free 14-Day Trial
+
+Supporting text:
+
+> No credit card required.  
+> Full access.  
+> Use your own policy documents.
+
+The primary CTA must be visually prominent.
+
+---
+
+## 7.5 Secondary Hero Action
+
+Approved text:
+
+> Watch a 2-Minute Product Tour
+
+This is a secondary action.
+
+It must not compete visually with the primary trial CTA.
+
+---
+
+## 7.6 Hero Visual
+
+The hero visual must communicate that CompareBuddy is Windows desktop software.
+
+The visual should use:
+
+- An approved CompareBuddy software interface or product visual.
+- A modern laptop or desktop presentation where appropriate.
+- The official approved Buddy artwork from `assets/buddy/`.
+
+Buddy should support the software presentation.
+
+Buddy must not overpower:
+
+- The product.
+- The headline.
+- The CTA.
+
+The hero must immediately communicate:
+
+> This is professional desktop software built for insurance brokers.
+
+No generic stock imagery should be used.
+
+---
+
+# 8. Trust / Positioning Bar
+
+A slim section should appear below the hero.
+
+Possible content:
+
+> Built for South African Short-Term Insurance Brokers
+
+This section may later include:
+
+- Genuine broker logos.
+- Industry associations.
+- Approved trust indicators.
+- Genuine customer proof.
+
+Do not use empty logo placeholders.
+
+Do not create artificial trust signals.
+
+If genuine logos or proof are not yet available, use a clear positioning statement instead.
+
+---
+
+# 9. The Problem
+
+This section should explain the problem CompareBuddy helps brokers address.
+
+Approved direction:
+
+> Policy comparisons shouldn't take hours.
+
+The section should be concise.
+
+Recommended problem areas:
+
+### Reading lengthy policy wording
+
+Policy documents can be lengthy and time-consuming to compare manually.
+
+### Identifying meaningful differences
+
+Important differences between policies may be difficult to identify quickly.
+
+### Producing professional client reports
+
+Preparing clear comparison information for client discussions can take significant time.
+
+Each problem should be presented with:
+
+- A simple approved icon.
+- A clear heading.
+- A concise explanation.
+
+The section should not become negative or overly dramatic.
+
+---
+
+# 10. The Solution
+
+This section introduces CompareBuddy as the solution.
+
+The primary visual should be the actual software.
+
+The software interface must not be treated as decorative imagery.
+
+Recommended layout:
+
+## One side
+
+Large, clear CompareBuddy software visual.
+
+## Other side
+
+Supporting content explaining that CompareBuddy helps brokers:
+
+- Compare policy wording more efficiently.
+- Identify meaningful differences.
+- Navigate important information.
+- Create professional client comparison reports.
+- Support informed client discussions.
+
+This section should demonstrate the product rather than merely describe it.
+
+---
+
+# 11. Why Insurance Brokers Choose CompareBuddy
+
+This section explains the specific reasons CompareBuddy is valuable to its target audience.
+
+The section should communicate that CompareBuddy is:
+
+- Designed specifically for insurance brokers.
+- Built around policy comparison.
+- Focused on meaningful differences.
+- Designed to support professional client discussions.
+- Designed to produce professional comparison reports.
+- A dedicated Windows desktop application.
+
+This section should not repeat the same wording used in the Problem or Solution sections.
+
+The content must focus on why the product is relevant to the broker.
+
+---
+
+# 12. Key Features
+
+The feature section should use a clean grid.
+
+The number of features should be limited to the most important product capabilities.
+
+Recommended feature areas:
+
+### Compare Policy Wording
+
+Compare policy documents more efficiently.
+
+### Identify Meaningful Differences
+
+Help bring important differences into focus.
+
+### Generate Professional Reports
+
+Create professional client comparison reports.
+
+### Professional Report Layouts
+
+Present comparison information clearly and professionally.
+
+### Designed for Insurance Brokers
+
+Built around the needs of South African short-term insurance brokers.
+
+### Windows Desktop Software
+
+A dedicated Windows application designed for professional broker use.
+
+Each feature should contain:
+
+- A simple, consistent icon.
+- A clear heading.
+- A concise explanation.
+
+The feature cards should not become overly decorative.
+
+Buddy should not appear beside every feature card.
+
+The software remains the focus.
+
+---
+
+# 13. How It Works
+
+This section explains the basic workflow.
+
+The preferred structure is a clean horizontal timeline on desktop.
+
+The process should be:
+
+### Step 1
+
+Download the Trial
+
+### Step 2
 
 Install CompareBuddy
 
-↓
-
-Step 3
+### Step 3
 
 Load Policy Documents
 
-↓
+### Step 4
 
-Step 4
+Compare and Review
 
-Buddy Guides You
+### Step 5
 
-↓
+Generate a Professional Report
 
-Step 5
+Buddy may support this section using an approved asset where appropriate.
 
-Generate Professional Report
+The workflow must remain simple and easy to understand.
 
-Very clean.
+---
 
-Large spacing.
+# 14. Example Report
 
-9. Example Report
+This is a key opportunity to demonstrate the outcome of using CompareBuddy.
 
-This is an opportunity many software companies miss.
+The section should show a professional example report.
 
-Instead of only talking about reports...
+The report should be treated as the primary visual.
 
-Show one.
+Supporting text should explain the outcome.
 
-Large image.
+The visitor should be able to understand:
 
-Professional report.
+> CompareBuddy helps turn policy comparison work into professional client-facing information.
 
-Short explanation.
+The report visual must be:
 
-Visitors immediately understand the outcome.
+- Clear.
+- Professional.
+- Easy to understand.
+- Consistent with the CompareBuddy product.
 
-10. Buddy Section
+Do not use a generic document mockup that does not represent the actual product.
 
-This is where Buddy becomes more than a mascot.
+---
 
-Large illustration.
+# 15. Meet Buddy
 
-Heading
+Buddy is the official CompareBuddy Guide.
 
-Meet Buddy
+Buddy is:
 
-Text
+- Friendly.
+- Helpful.
+- Professional.
+- Knowledgeable.
+- Confident.
+- Approachable.
 
-Buddy helps guide you through CompareBuddy, making it easier to compare policy wording, understand key differences, and create professional reports with confidence.
+Buddy is not childish or gimmicky.
 
-Buddy should appear confident and approachable—not cartoonish.
+Approved supporting message:
 
-11. Testimonials
+> Buddy helps guide you through CompareBuddy, making it easier to compare policy wording, understand key differences, and create professional reports with confidence.
 
-Future section.
+Buddy must be selected from the approved assets in:
 
-Three cards.
+```text
+assets/buddy/
 
-Professional photographs later.
+The official Buddy artwork must remain consistent.
 
-No fake testimonials.
+No alternative AI-generated versions may be used.
 
-Until real testimonials exist, omit this section rather than using filler.
+Buddy should support the message of the section.
 
-12. FAQ Preview
+The software remains the product hero.
 
-Five questions.
+16. Plans & Pricing
 
-Link to full FAQ page.
+The homepage must contain a dedicated Plans & Pricing section.
 
-13. Final CTA
+CompareBuddy is offered as a subscription-based software product.
 
-Large spacing.
+Supported billing options:
 
-Soft coloured background.
+Monthly
+Annual
 
-Headline
+The pricing section should allow visitors to switch between:
+
+Monthly | Annual
+
+Annual pricing should clearly communicate the applicable saving where approved.
+
+Current approved direction:
+
+Annual — Save 15%
+
+Pricing information must be clear and easy to compare.
+
+16.1 14-Day Free Trial
+
+The free trial is one option within the Plans & Pricing section.
+
+The free trial is not the only conversion path.
+
+Plan
+
+14-Day Free Trial
+
+Price
+
+R0
+
+Includes
+Full functionality.
+No credit card required.
+Use your own policy documents.
+Email support.
+Action
+
+Start Free Trial
+
+16.2 Single User Licence
+
+Designed for individual brokers.
+
+Includes
+One licensed user.
+Unlimited policy comparisons.
+Professional client reports.
+Software updates.
+Email support.
+Action
+
+Subscribe Now
+
+16.3 Multi-User Licence
+
+Designed for brokerages and teams.
+
+Recommended scope:
+
+Multiple licensed users.
+Shared licence management.
+Unlimited comparisons.
+Software updates.
+Priority support, where applicable.
+
+The exact number of included users and pricing must be confirmed before public launch.
+
+Action
+
+View Plans
+
+16.4 Enterprise
+
+Designed for:
+
+Larger brokerages.
+Multiple branches.
+Corporate groups.
+Action
+
+Contact Sales
+
+Pricing Rules
+
+The pricing section must:
+
+Clearly show the plan name.
+Clearly show the price.
+Clearly show the billing period.
+Clearly communicate what is included.
+Make monthly and annual options easy to understand.
+Avoid confusing pricing structures.
+Avoid making the free trial appear repeatedly throughout the page.
+
+The free trial CTA should primarily appear in:
+
+Navigation.
+Hero.
+Plans & Pricing.
+
+Other sections should guide visitors through the product rather than repeatedly asking them to start a trial.
+
+17. Testimonials
+
+Testimonials may be included only when genuine, approved customer feedback is available.
+
+No fake testimonials may be used.
+
+No invented customer names may be used.
+
+No invented company names may be used.
+
+Until genuine testimonials exist, this section should be omitted rather than filled with placeholder content.
+
+18. FAQ Preview
+
+The homepage may include a concise FAQ preview.
+
+The section should contain approximately five important questions.
+
+Possible topics include:
+
+What is CompareBuddy?
+Who is CompareBuddy designed for?
+Is CompareBuddy Windows software?
+Is there a free trial?
+How does licensing work?
+
+The homepage FAQ should link to the full FAQ page.
+
+The section should not attempt to answer every possible question.
+
+19. Final CTA
+
+The final CTA should provide a clear conclusion to the visitor journey.
+
+Approved direction:
 
 Ready to compare policies more efficiently?
 
-Button
+The primary action should be:
 
 Start Your Free 14-Day Trial
 
-Supporting text
+Supporting text:
 
 No credit card required.
 
-14. Footer
+The final CTA should use generous spacing and an approved subtle brand background.
 
-Four columns.
+The CTA should not feel aggressive or overly sales-focused.
+
+20. Footer
+
+The footer should be professional, clear, and easy to navigate.
+
+Recommended structure:
 
 Company
-
 About
-
 Contact
-
+Product
+Features
+How It Works
+Plans & Pricing
 Resources
-
+FAQ
+Product Tour
+Support
 Legal
-
-Privacy
-
+Privacy Policy
 Terms
 
-Copyright
+The footer should also include:
 
-Visual Style
+CompareBuddy logo.
+Copyright information.
+Appropriate contact information.
 
-The homepage should use a restrained palette, allowing Buddy's colors to act as accents rather than dominating the interface.
+Buddy may appear subtly in the footer if it improves the overall brand experience.
+
+The footer must not become visually cluttered.
+
+21. CTA Strategy
+
+The homepage should use a limited number of strong CTAs.
+
+Primary CTA
+
+Start Your Free 14-Day Trial
+
+Primary trial actions should appear in:
+
+Navigation.
+Hero.
+Plans & Pricing.
+
+A final CTA may also repeat the approved trial action after the visitor has completed the information journey.
+
+The trial CTA should not appear in every section.
+
+The visitor should not be confused about where to click.
+
+Secondary Actions
+
+Appropriate secondary actions include:
+
+Watch Product Tour.
+Learn More.
+Explore Features.
+See How It Works.
+View Sample Report.
+Contact Us.
+View Plans.
+
+Secondary actions should support exploration rather than compete with the primary conversion action.
+
+22. Visual Design Direction
+
+The homepage should use a restrained palette derived from the approved CompareBuddy brand colours and Buddy artwork.
+
+The design should use:
 
 White as the primary background.
-Very light grey sections to create rhythm.
-Accent colors derived from Buddy for buttons, links, highlights, and subtle illustrations.
-Rounded corners (approximately 12–16 px) for cards and buttons.
-Soft shadows used sparingly to create depth.
-Thin divider lines instead of heavy borders.
-Large, consistent vertical spacing between sections.
+Very light neutral sections to create rhythm.
+Approved Buddy-derived accent colours.
+Clear visual hierarchy.
+Large amounts of white space.
+Professional typography.
+Thin divider lines where appropriate.
+Subtle shadows used sparingly.
+Consistent corner radii.
+Clean, readable layouts.
 
-The overall impression should be calm, spacious, and highly readable.
+The overall impression should be:
 
-Animation Philosophy
+Calm, spacious, professional, trustworthy, and premium.
 
-Animations should reinforce quality, not distract from content.
+Visual clutter must be avoided.
+
+23. Buddy Visual Rules
+
+Buddy must follow:
+
+06 – Buddy Style Guide.md
+
+Buddy must:
+
+Use approved artwork.
+Remain visually consistent.
+Be used with a clear purpose.
+Maintain correct proportions.
+Have sufficient clear space.
+Support the content.
+
+Buddy must not:
+
+Appear randomly.
+Appear beside every feature.
+Replace clear content.
+Distract from the software.
+Be recreated as a different character.
+Be recoloured or altered without approval.
+
+The product remains the hero.
+
+24. Animation Philosophy
+
+Animations should reinforce quality rather than distract from content.
 
 Recommended interactions include:
 
-Smooth fade-in as sections enter the viewport.
-Slight upward motion on scroll.
+Smooth fade-in.
+Slight upward movement on scroll.
 Gentle hover elevation on cards.
 Soft button transitions.
-Buddy waving or pointing with a subtle loop only when visible.
+Subtle Buddy movement where appropriate.
 
 Avoid:
 
 Flying elements.
-Parallax effects.
+Excessive parallax.
 Spinning graphics.
 Autoplay videos.
 Excessive motion.
-Mobile Strategy
+Gimmicky animations.
 
-Although the product is Windows desktop software, the website must remain fully responsive.
+Animation should be subtle and purposeful.
+
+25. Responsive Design
+
+Although CompareBuddy is Windows desktop software, the website must be fully responsive.
+
+Desktop
+
+The homepage should be designed for a wide desktop viewport, including a 1920 px design reference.
+
+The layout should make effective use of:
+
+White space.
+Large product visuals.
+Clear content width.
+Balanced columns.
+Laptop
+
+The layout should scale naturally.
+
+Content should remain readable and visually balanced.
+
+Tablet
+
+Columns may stack or simplify where appropriate.
+
+Mobile
 
 On smaller screens:
 
@@ -384,214 +855,150 @@ Hero content stacks vertically.
 CTAs remain prominent.
 Software screenshots scale appropriately.
 Navigation collapses into a clean menu.
-Content width remains comfortable to read without feeling cramped.
-Homepage Success Checklist
+Cards stack naturally.
+Content remains comfortable to read.
+Horizontal scrolling should be avoided.
 
-Before approval, every design should satisfy these criteria:
+The mobile version must remain a professional version of the same brand experience.
 
-Requirement	Status
-Premium software appearance	✓
-Clear value proposition within 5 seconds	✓
-Desktop software immediately recognizable	✓
-Buddy integrated professionally	✓
-Consistent with Brand Guide	✓
-Consistent with Design System	✓
-Clear trial workflow	✓
-Strong CTAs without being pushy	✓
-Minimal visual clutter	✓
-Responsive by design	✓
-One structural refinement
+26. Accessibility
 
+The homepage must support accessible use.
 
-Homepage Design Decisions (Approved)
+Design requirements include:
 
-This section records all homepage design decisions that have been reviewed and approved after the initial Homepage Master Design was created.
+Sufficient colour contrast.
+Clear focus states.
+Readable typography.
+Meaningful alternative text for important images.
+Keyboard-accessible interactions.
+Clear form labels.
+Clear error messages.
+Adequate clickable areas.
 
-These decisions form part of the official CompareBuddy website specification.
+Accessibility is part of premium design.
 
-1. Design Philosophy
+27. Homepage Content Rules
 
-The CompareBuddy homepage must present the software as a premium commercial software product.
+All homepage content must be:
 
-The design should feel comparable to companies such as Microsoft, Adobe, Atlassian and Notion.
+Specific.
+Clear.
+Honest.
+Relevant to South African insurance brokers.
+Professionally written.
+Free from unnecessary filler.
+
+Avoid:
+
+Generic AI marketing language.
+Empty claims.
+Exaggerated promises.
+Unsubstantiated statistics.
+Fake social proof.
+Repetitive CTAs.
+Excessive buzzwords.
 
-The homepage should communicate professionalism, trust, simplicity and quality.
+The website should explain the value of CompareBuddy clearly.
 
-The objective is to educate visitors first and sell second.
+28. Homepage Design Approval Process
 
-2. Primary Objective
+The homepage design must follow these stages:
 
-The homepage exists to:
+Stage 1 – Structure
 
-Explain what CompareBuddy does.
-Demonstrate its value to South African short-term insurance brokers.
-Build trust.
-Encourage visitors to either start a free trial or subscribe to a suitable plan.
-3. Subscription Model
+Confirm:
 
-CompareBuddy will be offered as a subscription-based software product.
+Section order.
+Content hierarchy.
+User journey.
+Stage 2 – Visual Direction
 
-Supported billing options:
+Confirm:
 
-Monthly Subscription
-Annual Subscription
+Colour use.
+Typography.
+Layout style.
+Product visual direction.
+Buddy usage.
+Stage 3 – High-Fidelity Design
 
-Annual subscriptions should clearly display the savings compared to monthly billing.
+Create the complete homepage visual design.
 
-4. Plans & Pricing
+The reference design should show the full desktop homepage from navigation to footer.
 
-The homepage will contain a dedicated Plans & Pricing section.
+Stage 4 – Review
 
-Visitors should be able to switch between:
+Review the design against:
 
-Monthly | Annual (Save 15%)
+Brand Guide.
+Website Blueprint.
+Design System.
+UI Component Library.
+Buddy Style Guide.
+Stage 5 – Approval
 
-The pricing cards update based on the selected billing period.
+The homepage design must be formally approved before website development begins.
 
-The pricing structure currently includes:
+29. Development Restriction
 
-14-Day Free Trial
-R0
-Full functionality
-No credit card required
-Use your own policy documents
-Email support
+No HTML, CSS, React, JavaScript, or other website development may begin until the homepage design has been reviewed and approved.
 
-Action
+The approved homepage becomes the visual reference for:
 
-Start Free Trial
-
-Single User
-
-Ideal for individual brokers.
-
-Includes:
-
-One licensed user
-Unlimited policy comparisons
-Professional client reports
-Software updates
-Email support
-
-Action
-
-Subscribe Now
-
-Team Licence
-
-Designed for brokerages with multiple users.
-
-Supports:
-
-2–5 users
-Shared licence management
-Unlimited comparisons
-Priority support
-Software updates
-
-Action
-
-View Plans
-
-Enterprise
-
-Custom pricing.
-
-Designed for:
-
-Larger brokerages
-Multiple branches
-Corporate groups
-
-Action
-
-Contact Sales
-
-5. Call-to-Action Strategy
-
-To avoid overwhelming visitors, the homepage should use a limited number of primary calls-to-action.
-
-Primary trial buttons appear only in:
-
-Navigation
-Hero section
-Plans & Pricing section
-
-All other sections should encourage visitors to continue exploring the website.
-
-Examples include:
-
-Learn More
-Explore Features
-View Sample Report
-See How It Works
-6. Navigation
-
-Approved navigation structure:
-
-Features
-How It Works
-Plans & Pricing
-FAQ
-Contact
-
-Primary navigation button:
-
-Start Free Trial
-
-7. Homepage User Journey
-
-Visitors should naturally progress through the following journey:
-
-Understand who CompareBuddy is for.
-Understand the problem.
-Discover the solution.
-Learn why brokers choose CompareBuddy.
-Explore the key features.
-Understand how the software works.
-View an example report.
-Meet Buddy.
-Review plans and pricing.
-Start a free trial or subscribe.
-8. Homepage Tone
-
-The homepage should never feel sales-heavy.
-
-It should educate first and invite visitors to take the next step when they are ready.
-
-The messaging should always feel:
-
-Professional
-Helpful
-Confident
-Honest
-Trustworthy
-
-Avoid exaggerated marketing language or unrealistic claims.
-
-9. Buddy Usage
-
-Buddy remains the official CompareBuddy Guide.
-
-Buddy should:
-
-Welcome visitors.
-Guide users through the website.
-Introduce important sections.
-Support onboarding.
-Never distract from the software.
-
-The official approved Buddy artwork must be used consistently throughout the website.
-
-No alternative versions or AI-generated variations may be used.
-
-10. Design Approval Rule
-
-The Homepage Master Design becomes the visual reference for the entire website.
-
-No HTML, CSS, React, or website development may begin until the homepage design has been reviewed and approved.
-
-Every future page should inherit its design language, spacing, typography, colours, and component styles from the approved homepage.
-
-
-Quality Standard: Every section, component, and interaction should be evaluated against one question: "Would a premium software company proudly publish this?" If the answer is No, the design must be refined before approval.
+Page spacing.
+Typography.
+Colours.
+Components.
+Navigation.
+Buttons.
+Cards.
+Forms.
+Animation.
+Responsive behaviour.
+
+Future pages should inherit the design language of the approved homepage.
+
+30. Homepage Success Checklist
+
+Before final approval, the homepage must satisfy the following:
+
+ Premium software appearance.
+ Clear value proposition within approximately five seconds.
+ South African insurance broker audience clearly identified.
+ Windows desktop software immediately recognisable.
+ CompareBuddy product clearly demonstrated.
+ Buddy integrated professionally.
+ Only approved Buddy artwork used.
+ Clear problem and solution explanation.
+ Professional report outcome demonstrated.
+ Key features clearly explained.
+ Software workflow easy to understand.
+ Pricing and subscription model clear.
+ Monthly and annual options clearly presented.
+ Free trial is visible but not overused.
+ Genuine testimonials only.
+ No fake social proof.
+ Strong but non-aggressive CTAs.
+ Minimal visual clutter.
+ Consistent with the Brand Guide.
+ Consistent with the Website Blueprint.
+ Consistent with the Design System.
+ Consistent with the UI Component Library.
+ Consistent with the Buddy Style Guide.
+ Responsive by design.
+ Accessible by design.
+ Suitable for professional South African insurance brokers.
+31. Final Quality Standard
+
+Every section, component, visual, interaction, and piece of content must be evaluated against one question:
+
+Would a premium software company proudly publish this?
+
+If the answer is no, the design must be refined before approval.
+
+Final Rule
+
+Nothing gets built until the homepage design has been approved in the Design Milestone.
+
+The approved homepage becomes the master visual reference for the CompareBuddy website.
