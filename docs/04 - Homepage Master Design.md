@@ -103,6 +103,8 @@ Avoid generic software language that could apply to any industry.
 
 # 4. Homepage User Journey
 
+# 4. Homepage User Journey
+
 The intended visitor journey is:
 
 1. Understand who CompareBuddy is for.
@@ -112,15 +114,20 @@ The intended visitor journey is:
 5. Understand why brokers choose CompareBuddy.
 6. Explore the key features.
 7. Understand how the software works.
-8. See the professional report outcome.
-9. Meet Buddy, the CompareBuddy Guide.
-10. Review subscription options.
-11. Start a free trial or subscribe.
-12. Find additional information through FAQ and Contact.
+8. Understand how complex policy documents become clearer comparison insights.
+9. Understand how clearer comparison insights can support clearer client discussions.
+10. Meet Buddy, the CompareBuddy Guide.
+11. Review subscription options.
+12. Start a free trial or subscribe.
+13. Find additional information through FAQ and Contact.
 
 The visitor should move naturally from:
 
-> Problem → Solution → Understanding → Trust → Product → Outcome → Pricing → Action
+> Problem → Solution → Understanding → Trust → Product → Meaningful Differences → Clearer Client Discussion → Pricing → Action
+
+The homepage should educate the visitor progressively.
+
+The visitor should understand the value of CompareBuddy before being asked to commit to a subscription or free trial.
 
 ---
 
@@ -136,7 +143,7 @@ The official homepage section order is:
 6. Why Insurance Brokers Choose CompareBuddy
 7. Key Features
 8. How It Works
-9. Example Report
+9. From Complex Policy Documents to Clearer Client Discussions
 10. Meet Buddy
 11. Plans & Pricing
 12. Testimonials, only when genuine testimonials exist
@@ -146,6 +153,9 @@ The official homepage section order is:
 
 This order should not be changed without design review.
 
+The homepage should guide the visitor from:
+
+> Problem → Solution → Understanding → Trust → Product → Meaningful Differences → Clearer Client Discussion → Pricing → Action
 ---
 
 # 6. Sticky Navigation
@@ -236,7 +246,7 @@ Approved text:
 
 Approved text:
 
-> Start Your Free 14-Day Trial
+> Start Your Free 7-Day Trial
 
 Supporting text:
 
@@ -469,31 +479,45 @@ Buddy may support this section using an approved asset where appropriate.
 The workflow must remain simple and easy to understand.
 
 ---
+# 14. From Complex Policy Documents to Clearer Client Discussions
 
-# 14. Example Report
+This section replaces the previous Example Report section.
 
-This is a key opportunity to demonstrate the outcome of using CompareBuddy.
+CompareBuddy should not publicly display example client reports as part of the homepage visual concept.
 
-The section should show a professional example report.
-
-The report should be treated as the primary visual.
-
-Supporting text should explain the outcome.
-
-The visitor should be able to understand:
-
-> CompareBuddy helps turn policy comparison work into professional client-facing information.
-
-The report visual must be:
-
-- Clear.
-- Professional.
-- Easy to understand.
-- Consistent with the CompareBuddy product.
-
-Do not use a generic document mockup that does not represent the actual product.
+The purpose of this section is to communicate the transformation from complex policy documents into a clearer understanding of the differences that matter.
 
 ---
+
+## Section Heading
+
+> Turn Complex Policy Documents Into Clearer Client Discussions
+
+---
+
+## Supporting Text
+
+> CompareBuddy helps brokers move from lengthy policy documents to a clearer understanding of the differences that matter.
+
+---
+
+## Core Visual Story
+
+The visual should communicate the following transformation:
+
+> Complex Policy Information → Structured Comparison → Meaningful Differences → Clearer Client Discussion
+
+The visual journey should communicate:
+
+```text
+Policy Documents
+        ↓
+CompareBuddy Analysis
+        ↓
+Key Differences
+        ↓
+Clearer Client Discussion
+
 
 # 15. Meet Buddy
 
